@@ -1,0 +1,2 @@
+# simpleCalculator2.java
+ For this assignment, you have to extend the simple calculator, that you created in the previous teaching block. When the program starts, the user should be able to choose which feature she or he wants to execute. After choosing the feature, the program asks the user for the necessary inputs (depends on the selected feature). The simple calculator has the following features:
